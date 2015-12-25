@@ -1,4 +1,4 @@
-#Hello This is ex2.py of Project Euler
+# This is ex2.py of Project Euler
 
 
 def fibonaccii(n):
@@ -7,3 +7,6 @@ def fibonaccii(n):
 
    return fibonaccii(n-1) + fibonaccii(n-2)
 
+
+
+while fibonacii(n) <= 4
